@@ -1,0 +1,16 @@
+.odd_number{
+    background-color: rgb(255, 184, 194);
+    font-family: Verdana, "Dejavu Sans",sans-serif;
+}
+#blue{
+    color: blue;
+    font-size: 36px;
+}
+.odd_number.bigger{
+    font-size: 24px;
+}
+#lightgreen{
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
